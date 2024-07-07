@@ -32,7 +32,8 @@ function add(a, b) {
     console.log(`Hello, ${name}! Your age is ${age}.`);
 ```
 ### Output:
-![image](https://github.com/Shobika187/JS-Programs/assets/94508142/66b25692-ca22-48c6-9548-c8bd061ab97b)
+![image](https://github.com/Shobika187/JS-Programs/assets/94508142/bf56ce28-8894-422f-8780-adf51cf171c7)
+
 ## Exercise 4:
 ### Program:
 ```
